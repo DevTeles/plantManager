@@ -13,8 +13,8 @@
 # `Indice` 📇
 
 <a href="#React-Native">1. React-Native</a> <br />
-<a href="#💻-Tecnologias-utilizadas-💻">2. Tecnologias utilizadas</a> <br />
-<a href="#📽️-Como-baixar-o-projeto-📽️">3. Como baixar o projeto</a>
+<a href="#Tecnologias-utilizadas">2. Tecnologias utilizadas</a> <br />
+<a href="#Como-baixar-o-projeto">3. Como baixar o projeto</a>
 
 ## React-Native
 
